@@ -10,7 +10,7 @@ public class Today {
 
   // vinod
   public void delete () {
-    
+    Console.WriteLine("Vinod Developed");
   }
 
 
